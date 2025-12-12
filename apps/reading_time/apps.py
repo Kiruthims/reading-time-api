@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
-
-class ReadingT
+class ReadingTimeConfig(AppConfig):
+    default_auto_field = 'django.db.models.BigAutoField'
     name = 'apps.reading_time'
