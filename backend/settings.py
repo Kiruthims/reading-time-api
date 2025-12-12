@@ -39,7 +39,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     
 
-    'apps.reading_time',  #My apps
+    'apps.reading_time',  # My apps
+
+
+    'rest_framework',  # DRF
 
 
     
